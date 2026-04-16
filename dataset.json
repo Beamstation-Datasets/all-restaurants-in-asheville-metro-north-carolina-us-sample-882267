@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Asheville (Metro), North Carolina, covering Asheville. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Asheville (Metro), North Carolina, US",
+  "export_job_id": "42e9a1a0-e3af-46f3-91c9-5254d58cf735",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 882267,
+  "location_name": "Asheville, NC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-asheville-metro-north-carolina-us-sample-882267",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/882267/beamstation_882267_restaurants-us-ashevillenc_SAMPLE_DIST.csv",
+  "sample_pct": 12.07,
+  "sample_records": 105,
+  "sample_sha256": "40b68330c0c996181d77f2c4dfa4c16611fa9b8ce8d9833f2abc4af38053da09",
+  "sample_size_bytes": 400135,
+  "total_records": 870,
+  "updated_at": "2026-03-31T17:05:01.643984+00:00"
+}
