@@ -9,9 +9,9 @@
 | Dataset ID | `882267` |
 | Location | Asheville, NC |
 | Category | Restaurants |
-| Full dataset size | 870 records |
-| Free sample size | 105 records (12.07%) |
-| Last export | 2026-03-31T17:05:01.643984+00:00 |
+| Full dataset size | 1,051 records |
+| Free sample size | 105 records (9.99%) |
+| Last export | 2026-04-14T18:09:56.324395+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-asheville-metro-north-carolina-us-sample-882267/releases/download/sample-latest/beamstation_882267_restaurants-us-ashevillenc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
